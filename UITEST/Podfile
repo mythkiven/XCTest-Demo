@@ -1,0 +1,11 @@
+
+platform :ios, '8.0'
+use_frameworks!
+
+target 'UITEST' do
+    
+#pod 'KIF','~> 3.5.1'
+#pod 'EarlGrey','1.6.1'
+
+end
+
