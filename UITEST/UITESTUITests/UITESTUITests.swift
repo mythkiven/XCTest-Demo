@@ -30,8 +30,9 @@ class UITESTUITests: XCTestCase {
         let changecolorButton = app.buttons["changeColor"]
         changecolorButton.tap()
         
-        
+        // Jenkins Test
         changecolorButton.tap()
+        
         app.buttons["下一页"].tap()
         app.buttons["back"].tap()
         

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7A6512443F49563AFED038D460C8E21A0B624C22",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7A6512443F49563AFED038D460C8E21A0B624C22" : 9223372036854775807,
+    "EFFC378D676A8C7D60853A9DC05B16B17EA9AA82" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B4146268-98E8-48CA-9395-2C53CFE97E79",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7A6512443F49563AFED038D460C8E21A0B624C22" : "XCTest\/",
+    "EFFC378D676A8C7D60853A9DC05B16B17EA9AA82" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UITEST",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UITEST\/UITEST.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mythkiven\/XCTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7A6512443F49563AFED038D460C8E21A0B624C22"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mythkiven\/getFund.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EFFC378D676A8C7D60853A9DC05B16B17EA9AA82"
+    }
+  ]
+}
